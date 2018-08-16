@@ -1,0 +1,8 @@
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\bin\Debug\DownLoadDemo.exe
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\bin\Debug\DownLoadDemo.pdb
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.csprojResolveAssemblyReference.cache
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.Form1.resources
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.Properties.Resources.resources
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.csproj.GenerateResource.Cache
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.exe
+D:\Work\Code\CSharp\Self\QKSDK\DownLoadDemo\DownLoadDemo\obj\Debug\DownLoadDemo.pdb
